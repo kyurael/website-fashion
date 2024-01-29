@@ -1,0 +1,91 @@
+*{
+    font-family: Rage Italic;
+}
+
+.bg-tampil {
+    background-color: rgb(205, 110, 162);
+    height: 80px;
+}
+
+.navrad{
+    border-radius: 100px;
+}
+.btn-tam {
+    background-color: rgb(225, 122, 163);
+    height: 30px;
+}
+
+.fon-tam {
+    font-family: Rage Italic;
+}
+
+.jdl {
+    font-family: Rage Italic;
+    font-size: 40px;
+}
+
+.bg-f {
+    background-color: rgb(154, 36, 101);
+    color: aliceblue;
+}
+.img {
+    height: 495px;
+    width: 100%;
+}
+
+.btn-tam{
+    background-color: rgb(154, 36, 101);
+    color: aliceblue;
+    height: 45px;
+    width: 160px;
+    text-align: auto;
+    border-radius: 25px;
+}
+
+.bgwarna{
+    background-color:  rgb(154, 36, 101);
+    color: aliceblue;
+}
+
+.btrad{
+    width: 100px;
+    height: 37px;
+    color: aliceblue;
+    border-radius: 30px;
+    background-color: rgb(192, 99, 150);
+}
+
+.title{
+    text-align: center;
+}
+
+.tombol{
+    text-align: center;
+}
+
+.btwarna{
+    background-color: rgb(154, 36, 101);
+}
+
+.bg-pm{
+    background-color: rgb(247, 232, 240);
+}
+
+.form{
+    margin-left: 145px;
+    margin-right: 0px;   
+}
+
+.margin{
+    margin-left: 90px;
+}
+
+.footer{
+    background-color: rgb(205, 110, 162);
+    color: aliceblue;
+    width: 100%;
+}
+
+.footer a{
+    color: aliceblue;
+}
